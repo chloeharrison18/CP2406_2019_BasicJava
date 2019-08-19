@@ -12,9 +12,9 @@ public class Game {
 
     void makeGuess(int value) {
         // supposed to check wins and add counts.
-        count = + 1;
+        count += 1;
         if (value == secret) {
-            wins = + 1;
+            wins += 1;
         }
     }
 }
