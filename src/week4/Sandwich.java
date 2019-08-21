@@ -14,11 +14,9 @@ public class Sandwich {
     public void setMain_ingredient(String value) {
         main_ingredient = value;
     }
-
     public void setBread_type(String value) {
         bread_type = value;
     }
-
     public void setPrice(double value) {
         price = value;
     }
@@ -26,11 +24,9 @@ public class Sandwich {
     public String getMain_ingredient() {
         return main_ingredient;
     }
-
     public String getBread_type(){
         return bread_type;
     }
-
     public double getPrice() {
         return price;
     }

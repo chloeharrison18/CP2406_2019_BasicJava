@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SandwichTest {
-    @Test
-    void checkSandwich() {
+    @Test void checkSandwich() {
         Sandwich sandwich = new Sandwich("cheese", "white", 2.00);
 
         // Test constructor values.
