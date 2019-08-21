@@ -7,18 +7,7 @@ class StudentTest {
     @Test void basicTest() {
         Student student = new Student();
 
-        // Test constructors.
-        int id = student.getId();
-        assertEquals(0, id);
-
-        int creditHours = student.getCreditHours();
-        assertEquals(0, creditHours);
-
-        int points = student.getPoints();
-        assertEquals(0, points);
-
         // Test setters and getter methods.
-
         int testId = 1;
         student.setId(testId);
         int getId = student.getId();
@@ -48,5 +37,19 @@ class StudentTest {
 
         // Test GPA calculation.
         double studentGpa = student.gpa();
+    }
+
+    @Test void initialiser() {
+        Student student = new Student();
+
+        // Test default constructor.
+        int id = student.getId();
+        assertEquals(9999, id);
+
+        int creditHours = student.getCreditHours();
+        assertEquals(3, creditHours);
+
+        int points = student.getPoints();
+        assertEquals(12, points);
     }
 }

@@ -5,6 +5,12 @@ public class Student {
     private int creditHours;
     private int points;
 
+    public Student() {
+        id = 9999;
+        creditHours = 3;
+        points = 12;
+    }
+
     // Setter Methods.
     public void setId(int value) { id = value; }
     public void setCreditHours(int value) { creditHours = value; }
