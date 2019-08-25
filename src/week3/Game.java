@@ -3,11 +3,14 @@ package week3;
 import java.util.Random;
 
 public class Game {
-    private Random random = new Random();
-    int secret = random.nextInt(10) + 1; // secret is assigned a random value between 1-10
-
+    int secret;
     int count;
     int wins;
+
+    public Game(int min, int max) {
+        Random random = new Random();
+        secret = random.nextInt(max - min);
+    }
 
     void makeGuess(int value) {
         // supposed to check wins and add counts.

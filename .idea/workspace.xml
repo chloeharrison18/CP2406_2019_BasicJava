@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week4/Lease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/LeaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/SandwichTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/SandwichTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/GameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/GameTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +60,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeaseTest">
+  <component name="RunManager" selected="JUnit.GameTest">
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CP2406_2019_BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week3" />
+      <option name="MAIN_CLASS_NAME" value="week3.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
@@ -109,22 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest.checkGPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CP2406_2019_BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.StudentTest" />
-      <option name="METHOD_NAME" value="checkGPA" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StudentTest.initialiser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
@@ -143,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GameTest" />
         <item itemvalue="JUnit.LeaseTest" />
         <item itemvalue="JUnit.LeaseTest.testPetFee" />
         <item itemvalue="JUnit.StudentTest" />
         <item itemvalue="JUnit.StudentTest.initialiser" />
-        <item itemvalue="JUnit.StudentTest.checkGPA" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +162,7 @@
       <workItem from="1566191310254" duration="341000" />
       <workItem from="1566364171685" duration="9456000" />
       <workItem from="1566643682156" duration="491000" />
-      <workItem from="1566704999754" duration="5574000" />
+      <workItem from="1566704999754" duration="6964000" />
     </task>
     <task id="LOCAL-00001" summary="Edited guessing game class">
       <created>1566191196463</created>
@@ -188,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566373369155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented and tested the lease class">
+      <created>1566710808499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566710808499</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +215,18 @@
     <MESSAGE value="Edited guessing game class" />
     <MESSAGE value="Implemented and tested the student class" />
     <MESSAGE value="Edited student class and tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited student class and tests" />
+    <MESSAGE value="Implemented and tested the lease class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented and tested the lease class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week3/GameTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
