@@ -3,7 +3,7 @@ package week5;
 import java.util.Scanner;
 
 public class EvenOdd {
-    public static void main(String args[]) throws Exception {
+    public static void main(String args[])  {
         int num;
 
         Scanner input = new Scanner(System.in);

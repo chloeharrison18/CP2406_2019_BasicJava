@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/AscendingAndDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +53,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -67,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EvenOdd">
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.EvenOdd" />
+  <component name="RunManager" selected="Application.CountMovieSpaces">
+    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugFive1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.FixDebugFive1" />
+    <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.AscendingOrder" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +103,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugFive4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.FixDebugFive4" />
+    <configuration name="CountMovieSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.CountMovieSpaces" />
+      <module name="CP2406_2019_BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.Example" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FixDebugSeven1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.FixDebugSeven1" />
+      <module name="CP2406_2019_BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,9 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.FixDebugFive1" />
-        <item itemvalue="Application.FixDebugFive4" />
+        <item itemvalue="Application.CountMovieSpaces" />
+        <item itemvalue="Application.FixDebugSeven1" />
+        <item itemvalue="Application.AscendingAndDescending" />
+        <item itemvalue="Application.AscendingOrder" />
+        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +171,9 @@
       <workItem from="1566952214180" duration="11000" />
       <workItem from="1566952251433" duration="74000" />
       <workItem from="1566952354457" duration="7000" />
-      <workItem from="1566952378074" duration="1906000" />
+      <workItem from="1566952378074" duration="5545000" />
+      <workItem from="1567401481935" duration="3104000" />
+      <workItem from="1567555379396" duration="2600000" />
     </task>
     <task id="LOCAL-00001" summary="Edited guessing game class">
       <created>1566191196463</created>
@@ -178,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566953904916</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added and implemented the EvenOdd class">
+      <created>1566954564070</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566954564070</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +251,8 @@
     <MESSAGE value="Implemented and tested the lease class" />
     <MESSAGE value="Added a constructor to the game class and edited tests" />
     <MESSAGE value="Added and fixed debug files from textbook resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added and fixed debug files from textbook resources" />
+    <MESSAGE value="Added and implemented the EvenOdd class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added and implemented the EvenOdd class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
