@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week5/AscendingAndDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/FixDebugSeven4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/RaceHorse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountMovieSpaces">
+  <component name="RunManager" selected="Application.DemoHorses">
     <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
       <module name="CP2406_2019_BasicJava" />
@@ -116,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.Example" />
+    <configuration name="DemoHorses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.DemoHorses" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.CountMovieSpaces" />
         <item itemvalue="Application.FixDebugSeven1" />
         <item itemvalue="Application.AscendingAndDescending" />
         <item itemvalue="Application.AscendingOrder" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +170,8 @@
       <workItem from="1566952354457" duration="7000" />
       <workItem from="1566952378074" duration="5545000" />
       <workItem from="1567401481935" duration="3104000" />
-      <workItem from="1567555379396" duration="2600000" />
+      <workItem from="1567555379396" duration="2847000" />
+      <workItem from="1569459835369" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="Edited guessing game class">
       <created>1566191196463</created>
@@ -224,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566954564070</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added and implemented the CountMovieSpaces class">
+      <created>1567558139509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567558139509</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +257,8 @@
     <MESSAGE value="Added a constructor to the game class and edited tests" />
     <MESSAGE value="Added and fixed debug files from textbook resources" />
     <MESSAGE value="Added and implemented the EvenOdd class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added and implemented the EvenOdd class" />
+    <MESSAGE value="Added and implemented the CountMovieSpaces class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added and implemented the CountMovieSpaces class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
