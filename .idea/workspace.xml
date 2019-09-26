@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/RaceHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoItemsAndPets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/ItemSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/PetSold.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7/DemoHorses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +174,7 @@
       <workItem from="1566952378074" duration="5545000" />
       <workItem from="1567401481935" duration="3104000" />
       <workItem from="1567555379396" duration="2847000" />
-      <workItem from="1569459835369" duration="1780000" />
+      <workItem from="1569459835369" duration="2620000" />
     </task>
     <task id="LOCAL-00001" summary="Edited guessing game class">
       <created>1566191196463</created>
@@ -229,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567558139509</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Horse, RaceHorse and DemoHorses classes.">
+      <created>1569461853707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569461853707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +268,8 @@
     <MESSAGE value="Added and fixed debug files from textbook resources" />
     <MESSAGE value="Added and implemented the EvenOdd class" />
     <MESSAGE value="Added and implemented the CountMovieSpaces class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added and implemented the CountMovieSpaces class" />
+    <MESSAGE value="Add Horse, RaceHorse and DemoHorses classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Horse, RaceHorse and DemoHorses classes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

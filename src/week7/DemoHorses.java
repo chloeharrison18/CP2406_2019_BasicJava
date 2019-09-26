@@ -19,6 +19,6 @@ public class DemoHorses {
         int races = 5;
         raceHorse.setRaces(races);
         int getRaces = raceHorse.getRaces();
-        System.out.println("The race horse has had" + getRaces + "races total.");
+        System.out.println("The race horse has had " + getRaces + " races total.");
     }
 }
