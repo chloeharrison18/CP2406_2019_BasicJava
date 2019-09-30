@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week7/Couplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoPoems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Haiku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Limerick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/Poem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Candle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/ScentedCandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,13 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoPoems">
-    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
+  <component name="RunManager" selected="Application.DemoCandles">
+    <configuration name="CountMovieSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.CountMovieSpaces" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountMovieSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.CountMovieSpaces" />
+    <configuration name="DemoCandles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.DemoCandles" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoCandles" />
         <item itemvalue="Application.DemoPoems" />
         <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.CountMovieSpaces" />
         <item itemvalue="Application.FixDebugSeven1" />
-        <item itemvalue="Application.AscendingAndDescending" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569461853707</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Poem, Haiku, Limerick, Couplet and DemoPoems classes.">
+      <created>1569825860839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569825860839</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +271,8 @@
     <MESSAGE value="Added and implemented the EvenOdd class" />
     <MESSAGE value="Added and implemented the CountMovieSpaces class" />
     <MESSAGE value="Add Horse, RaceHorse and DemoHorses classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Horse, RaceHorse and DemoHorses classes." />
+    <MESSAGE value="Add Poem, Haiku, Limerick, Couplet and DemoPoems classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Poem, Haiku, Limerick, Couplet and DemoPoems classes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
