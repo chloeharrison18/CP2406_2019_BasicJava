@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoItemsAndPets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/ItemSold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/PetSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Couplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoPoems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Haiku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Limerick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Poem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6/FixDebugSeven4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week7/DemoHorses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,22 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoHorses">
+  <component name="RunManager" selected="Application.DemoPoems">
     <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
-      <module name="CP2406_2019_BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.AscendingOrder" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
@@ -129,6 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoPoems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7.DemoPoems" />
+      <module name="CP2406_2019_BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FixDebugSeven1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.FixDebugSeven1" />
       <module name="CP2406_2019_BasicJava" />
@@ -144,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoPoems" />
         <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.CountMovieSpaces" />
         <item itemvalue="Application.FixDebugSeven1" />
         <item itemvalue="Application.AscendingAndDescending" />
-        <item itemvalue="Application.AscendingOrder" />
       </list>
     </recent_temporary>
   </component>
