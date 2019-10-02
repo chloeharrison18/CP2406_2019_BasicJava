@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week7/Candle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/DemoCandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week7/ScentedCandle.java" afterDir="false" />
+    <list default="true" id="7f003ed6-c03e-434e-a29f-d2df2c02c760" name="Default Changelist" comment="Add Poem, Haiku, Limerick, Couplet and DemoPoems classes.">
+      <change afterPath="$PROJECT_DIR$/src/week9/JBookQuote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoCandles">
+  <component name="RunManager" selected="Application.JBookQuote">
     <configuration name="CountMovieSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week6.CountMovieSpaces" />
       <module name="CP2406_2019_BasicJava" />
@@ -124,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugSeven1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.FixDebugSeven1" />
+    <configuration name="JBookQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week9.JBookQuote" />
       <module name="CP2406_2019_BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="week9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JBookQuote" />
         <item itemvalue="Application.DemoCandles" />
         <item itemvalue="Application.DemoPoems" />
         <item itemvalue="Application.DemoHorses" />
         <item itemvalue="Application.CountMovieSpaces" />
-        <item itemvalue="Application.FixDebugSeven1" />
       </list>
     </recent_temporary>
   </component>
